@@ -1,2 +1,3 @@
 # test|1/12/2023
+[audio]lol.mp3
 lol
