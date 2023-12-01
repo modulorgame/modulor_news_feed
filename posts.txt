@@ -1,3 +1,6 @@
-# test|1/12/2023
-[audio]lol.mp3
-lol
+# The Demo Devlog|1/12/2023
+[audio]demo_devlog.mp3
+the demo devlog
+
+# What is this about?
+what is this truly about
