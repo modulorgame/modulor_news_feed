@@ -4,7 +4,7 @@ Hi!
 Just a quick update. 
 Thanks to everyone for playing the demo. I've patched some bugs. There is still the memory leak bug. I'm working on it. I'm so sorry, but it's very painful.
 
-Apart from that I'm thinking about the future of the game. So [color=94D2BD]happy hollidays[/color] and I'll be sure to let you know about the games direction.
+Apart from that I'm thinking about the future of the game. So [color=94D2BD]happy holidays[/color] and I'll be sure to let you know about the games direction.
 [i]-TStudio games Dude[/i]
 
 # Demo 1.0 Release!|15/12/2023
